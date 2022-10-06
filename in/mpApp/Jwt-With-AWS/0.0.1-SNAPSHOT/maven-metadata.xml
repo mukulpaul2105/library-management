@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>in.mpApp</groupId>
+  <artifactId>Jwt-With-AWS</artifactId>
+  <versioning>
+    <lastUpdated>20221006153757</lastUpdated>
+    <snapshot>
+      <timestamp>20221006.153757</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20221006.153757-1</value>
+        <updated>20221006153757</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20221006.153757-1</value>
+        <updated>20221006153757</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
